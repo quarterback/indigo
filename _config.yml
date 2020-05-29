@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Ron Bronson
+bio: Skeeball pro
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,37 +34,31 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+# facebook: myfacebook
+twitter: ronbronson
+instagram: ronbronson
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: ronbronson
 # youtube: myyoutube
-# spotify: myspotify
-github: mygithub
+spotify: ronbronson
+github: quarterback
 # gitlab: mygitlab
-# lastfm: mylastfm
+lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ron@ronbronson.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Ron Bronson
+    bio: No idea
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: ronbronson
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -99,10 +93,10 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
-animation: true
+animation: false
 
 # add default values to specific pages or layouts
 defaults:
