@@ -12,11 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: #
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -43,7 +43,7 @@ linkedin: ronbronson
 spotify: ronbronson
 github: quarterback
 # gitlab: mygitlab
-lastfm: mylastfm
+lastfm: omnivoreron
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username

@@ -4,19 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Ron Bronson is an experience designer, information architect, digital director, and speaker. He works on large-scale digital transformation projects, collaborates with developers & other designers to build digital products, interfaces, and migrate large sites successfully. He's been on stage at conferences around the world discussing diverse topics around the user experience. Right now, he leads the product design team at 18F.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Before moving to the west coast, Ron started a number of non-profit community design events including Indianapolis Design Week. He also local boards of Indy's AIGA and IxDA chapters. He also spent two years as a volunteer news anchor (and later, a board member) at community radio station WFHB-FM. A long time ago, he spent four years on active duty in the U.S Air Force, too.
+
+Ron sometimes coaches tennis; plays professional skeeball; volunteers with Code for PDX; an amateur tea sommelier; and is America's leading Finnish baseball (Pesäpallo) ambassador. If you want to talk about music, find him on Twitter.</p>
+
 
 <h2>Skills</h2>
 
