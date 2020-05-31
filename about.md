@@ -30,10 +30,36 @@ Ron sometimes coaches tennis; plays professional skeeball; volunteers with Code 
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Talks</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<li>Mar. 2020 The Researcher's Role in Reducing Hostile Design UX Australia Design Research 🇦🇺</li>
+
+<li>Oct. 2019 Hostile Design of Digital Experiences, ACM SIGDOC (Portland)</li>
+
+<li>Jun. 2019 Hostile Design of Digital Experiences (slides) (Fjord Austin)</li>
+
+<li>Jun. 2019 Involving stakeholders in design research: a primer for success, UX Research Conference 🇨🇦</li>
+
+<li>May 2019 Code for America Summit (panel)</li>
+
+<li>Apr. 2019 Portland Design Week (panel)</li>
+
+<li>Feb. 2019 Defense Against Dark Patterns: Let's talk about anti-UX, Donut.js (Portland)</li>
+
+<li>Oct. 2018 Improving the Product Toolbox, Indianapolis Design Week</li>
+
+<li>Apr. 2018 Migrating a Small City to Drupal, DrupalCon (Nashville)</li>
+
+<li>Jan. 2018 Service Design in Higher Education, Carnegie Conference (Orlando)</li>
+
+<li>Nov. 2017 Tackling Content Migration & Maintenance, Confab Higher Ed</li>
+
+<li>Sep. 2017 Workshop: Content Migration, Confab Intensive (Denver)</li>
+
+<li>Jul. 2017 Discovery & Microinteractions: Improving the Product Toolbox, Design & Content Conference 🇨🇦</li>
+
+<li>May 2017 Blind Spots That Product Experiences, Pixel Up! 🇿🇦</li>
+
+<li>Apr. 2017 Tackling Content Migration & Mantenance, University of Illinois Web Conference</li>
 </ul>
