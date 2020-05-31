@@ -9,7 +9,7 @@ layout: page
 Before moving to the west coast, Ron started a number of non-profit community design events including Indianapolis Design Week. He also local boards of Indy's AIGA and IxDA chapters. He also spent two years as a volunteer news anchor (and later, a board member) at community radio station WFHB-FM. A long time ago, he spent four years on active duty in the U.S Air Force, too.
 
 Ron sometimes coaches tennis; plays professional skeeball; volunteers with Code for PDX; an amateur tea sommelier; and is America's leading Finnish baseball (Pesäpallo) ambassador. If you want to talk about music, find him on Twitter.</p>
-
+<!--
 
 <h2>Skills</h2>
 
@@ -28,7 +28,7 @@ Ron sometimes coaches tennis; plays professional skeeball; volunteers with Code 
 	<li>MySQL - MongoDB</li>
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
-</ul>
+</ul> -->
 
 <h2>Talks</h2>
 
